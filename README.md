@@ -8,6 +8,7 @@ Este projeto utiliza Cypress para automatizar testes de design e funcionalidades
 - Fluxos de criação e visualização de pautas
 - Abertura e encerramento de sessões de votação
 - Recebimento e contagem de votos
+- Fluxos de criação e visualização de usuarios
 - Validação de campos obrigatórios
 
 ## 🚀 Como Executar os Testes
